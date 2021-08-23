@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/rk/Projects/py/unique_secting/minimal.py", line 15, in <module>
+    assert f(6, 3) == 10
+  File "/Users/rk/Projects/py/unique_secting/minimal.py", line 9, in f
+    c += f(b)
+TypeError: f() missing 1 required positional argument: 'n'
+
+
